@@ -90,6 +90,15 @@ NIST サイバーセキュリティフレームワークの 5 つの機能 (Func
 #### [153 CIS Controls V8 Implementation Group](https://learn.cisecurity.org/CIS_Controls_v8_Implementation_Groups_Handout)
 #### [108 Safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) 
 #### [42 Mitre Enterprise Mitigations](https://attack.mitre.org/mitigations/enterprise/)
+#### [ISO 27002:2022 Information Security Controls](https://www.iso.org/standard/75652.html)
+
+セーフカードを整理する一般的な方法の一つは、セーフガードを三つのバケツのいずれかに分類することです。
+
+**人 (People)** - 人のセーフガードは人の行動に影響を与える教育、トレーニング、啓発活動と考えることができます。
+
+**プロセス (Process)** - プロセスのセーフガードは望ましい結果を運用するためのポリシー、プラクティス、証拠または証跡と考えることができます。
+
+**テクノロジ (Technology)** - テクノロジのセーフガードはシステムの安全性とセキュリティを向上させるあらゆる技術的なソリューション (WAF、ファイアウォール、アンチウィルスなど) と考えることができます。
 
 # 謝辞
 脅威とセーフガードのマトリクスのひらめきと改善にご協力いただいた多くの方々に感謝します。
