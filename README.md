@@ -7,7 +7,7 @@ This is the unofficial Japanese translation of the [OWASP Threat and Safeguard M
 - Project Site - <https://owasp.org/www-project-threat-and-safeguard-matrix/>
 - Project Repository - <https://github.com/OWASP/www-project-threat-and-safeguard-matrix>
 
-# OWASP 脅威とセーフガードのマトリクス (TaSM) 日本語版
+## OWASP 脅威とセーフガードのマトリクス (TaSM) 日本語版
 
 * [OWASP 脅威とセーフガードのマトリクス (TaSM) ](Document/index.md)
 * [リーダー](Document/leaders.md)
