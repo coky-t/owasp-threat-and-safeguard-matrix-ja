@@ -1,6 +1,9 @@
 # OWASP Threat and Safeguard Matrix (TaSM) ja
 
-This is the unofficial Japanese translation of the [OWASP Threat and Safeguard Matrix (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/).
+This is the unofficial Japanese translation of the [OWASP Threat and Safeguard Matrix (TaSM)](https://github.com/OWASP/www-project-threat-and-safeguard-matrix).
+
+- Document Site - <https://coky-t.gitbook.io/owasp-threat-and-safeguard-matrix-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-threat-and-safeguard-matrix-ja>
 
 ### Originator
 
@@ -19,3 +22,6 @@ This is the unofficial Japanese translation of the [OWASP Threat and Safeguard M
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
