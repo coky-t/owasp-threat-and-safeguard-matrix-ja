@@ -111,7 +111,7 @@ TaSM を適切に使用するには、マトリクス内で使用されている
 サイバーセキュリティは収益保護のビジネスです。サイバーセキュリティとは重要なデータが漏洩 (機密性) 、改竄 (完全性) 、拒否 (可用性) されるリスクを理解し、管理し、軽減することに関するすべてです。
 
 ### 脅威 (Threats)
-国家安全保障システム委員会 (Committee on National Security Systems, CNSS) は **[脅威 (Threat)](https://www.cnss.gov/CNSS/openDoc.cfm?RdlzQ4+p2Zr6FLhO4Lo3Bw==)** を組織の運営に悪影響を及ぼす可能性のあるあらゆる事象と定義しています。
+国家安全保障システム委員会 (Committee on National Security Systems, CNSS) は **[脅威 (Threat)](https://csrc.nist.gov/glossary/term/threat)** を組織の運営に悪影響を及ぼす可能性のあるあらゆる事象と定義しています。
 
 ### NIST 機能 (Functions)
 NIST サイバーセキュリティフレームワークの 5 つの機能 (Functions) により、どのようにビジネスを保護するかを識別する多層防御戦略を作成できます。
