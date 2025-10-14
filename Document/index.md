@@ -12,7 +12,7 @@ type: documentation
 # はじめに
 脅威とセーフガードのマトリクス (Threat and Safeguard Matrix, TaSM) は [CISO Tradecraft](https://www.cisotradecraft.com/) によって作成された、ビジネスを保護し実現するための行動指向のビューです。簡単に言うと、サイバーが収益保護のビジネスに携わっているのであれば、私たちは企業に対する最大の脅威に対抗するための多層防御計画を立てる必要があります。このマトリクスによって、企業は主要な脅威を NIST のサイバーセキュリティフレームワーク機能 (Cyber Security Framework Functions) (識別 (Identify), 防御 (Protect), 検知 (Detect), 対応 (Respond), 復旧 (Recover)) と重ね合わせて、堅牢なセキュリティ計画を構築できます。この活動を行う組織は重要な脅威を軽減するセーフガードを記入することで自社を保護する方法をよりよく理解できるようになります。悪魔 (devil) は細部に宿るということで、私たちはタスマニアデビル (TaSManian Devil) をプロジェクトのロゴに選びました。
 
-![Threat and Safeguard Matrix](assets/images/TaSMBlankNoName.png)
+![Threat and Safeguard Matrix](assets/images/OWASPTASMBlank.png)
 
 例: 情報セキュリティ業界全体を見渡すと、企業に対する最大の脅威には次のようなものが多いことに気づくでしょう。ウェブアプリケーション攻撃、フィッシング、サードパーティデータ損失、サプライチェーン攻撃、サービス拒否などです。このマトリクスにはインサイダー脅威、ユーザーエラー、不正行為など、あなたの環境に特有のものを追加できることをご承知ください。
 
