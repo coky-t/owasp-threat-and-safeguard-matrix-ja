@@ -53,6 +53,11 @@ type: documentation
 TaSM を構築したところで、リストアップしたセーフガードとどこにギャップがあるのかに目を向けることが重要です。すべてのセーフガードが重要というわけではありません。すべてが重要であるならば、真に重要なものは何もありません。組織として重視したいセーフガードについて考えてみてください。これらは脅威を阻止するために最も効果的なものである可能性があります。また、これらのセーフガードには最も改善の余地がある可能性もあります。重要な評価指標を設定できるセーフガードをいくつか選び、赤枠で囲んで強調します。こうすることで評価指標から TaSM への進行状況をマッピングできます。測定されたものが実行され、実行されたものが資金を得る (What gets measured gets done and what gets done gets funded) ことを忘れないでください。
 ![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
 
+# インタラクティブウェブアプリケーションで自分だけの TaSM を作成する
+ツールはこちらの [TaSM ツール](https://www.cisotradecraft.com/tasm) で閲覧できます。
+
+[![Click to try the Interactive Website](assets/images/TaSMWebsite.png)](https://www.cisotradecraft.com/tasm)
+
 # サイバーレポートカードを作成する
 組織が改善したいセーフガードの概略を記載した後、重要な評価指標を作成してスコアカードに配置する必要があります。この例ではいくつか注意すべき点がありますが、自由に変更してください。物事をテクノロジ (Technology)、人 (People)、プロセス (Processes)、環境 (Environment) など主要なカテゴリにグループ化します。環境 (Environment) とは組織がコントロールできないもの (悪意のある人物や外部の規制当局など) を指すことに注意してください。
 
